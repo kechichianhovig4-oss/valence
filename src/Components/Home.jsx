@@ -225,7 +225,7 @@ function HomePage() {
                 <div className="flex flex-col gap-6">
                   <span className="font-body inline-flex w-fit items-center gap-2 rounded-full bg-[#EDE6D6] px-4 py-1.5 text-[11px] font-semibold uppercase tracking-[0.18em] text-[#A8881E]">
                     <span className="size-1.5 rounded-full bg-[#C9A227]" />
-                    Hoboken, NJ · Est. 2016
+                    Hoboken, NJ 
                   </span>
                   <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-semibold leading-[1.02] tracking-[-0.02em] text-[#1C1B19]">
                     Where Science Meets{' '}
